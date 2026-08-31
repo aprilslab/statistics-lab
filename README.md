@@ -7,7 +7,7 @@ Colab 은 열 때마다 새 런타임이라 준비 셀은 세션마다 한 번�
 
 | 주차 | 노트북 | 열기 |
 |---|---|---|
-| — | (아직 열린 주차가 없습니다) | — |
+| 01 수업 소개 & 1장 데이터 | `chap01_풀이.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w01/chap01_%ED%92%80%EC%9D%B4.ipynb) |
 
 ---
 
