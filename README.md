@@ -2,38 +2,25 @@
 
 아래 배지를 누르면 Colab 에서 바로 열립니다.
 수업은 진행 순서대로 나가지만 노트북은 미리 열어봐도 됩니다.
-`_풀이` 가 붙은 것은 답이 채워진 풀이본입니다.
+풀이본은 여기 없습니다 — 수업 자료실의 '풀이본 보기' 에서 읽을 수 있습니다.
 
 각 노트북 **맨 위의 준비 셀을 먼저 한 번 실행**해야 데이터가 내려받아집니다.
 Colab 은 열 때마다 새 런타임이라 준비 셀은 세션마다 한 번씩 실행해야 합니다.
 
 | 주차 | 노트북 | 열기 |
 |---|---|---|
-| 01 수업 소개 & 1장 데이터 | `chap01_풀이.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w01/chap01_%ED%92%80%EC%9D%B4.ipynb) |
 | 02 1차원 데이터 정리 — 지표 계산·시각화 | `chap02.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w02/chap02.ipynb) |
-| 02 1차원 데이터 정리 — 지표 계산·시각화 | `chap02_풀이.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w02/chap02_%ED%92%80%EC%9D%B4.ipynb) |
 | 03 2차원 데이터 정리 — 지표 계산·시각화 | `chap03.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w03/chap03.ipynb) |
-| 03 2차원 데이터 정리 — 지표 계산·시각화 | `chap03_풀이.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w03/chap03_%ED%92%80%EC%9D%B4.ipynb) |
 | 04 추측통계의 기본 | `chap04.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w04/chap04.ipynb) |
-| 04 추측통계의 기본 | `chap04_풀이.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w04/chap04_%ED%92%80%EC%9D%B4.ipynb) |
 | 05 이산형 확률변수 | `chap05.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w05/chap05.ipynb) |
-| 05 이산형 확률변수 | `chap05_풀이.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w05/chap05_%ED%92%80%EC%9D%B4.ipynb) |
 | 06 대표적인 이산형 확률변수 | `chap06.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w06/chap06.ipynb) |
-| 06 대표적인 이산형 확률변수 | `chap06_풀이.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w06/chap06_%ED%92%80%EC%9D%B4.ipynb) |
 | 07 연속형 확률변수 | `chap07.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w07/chap07.ipynb) |
-| 07 연속형 확률변수 | `chap07_풀이.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w07/chap07_%ED%92%80%EC%9D%B4.ipynb) |
 | 08 대표적인 연속형 확률분포 | `chap08.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w08/chap08.ipynb) |
-| 08 대표적인 연속형 확률분포 | `chap08_풀이.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w08/chap08_%ED%92%80%EC%9D%B4.ipynb) |
 | 09 독립동일분포 | `chap09.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w09/chap09.ipynb) |
-| 09 독립동일분포 | `chap09_풀이.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w09/chap09_%ED%92%80%EC%9D%B4.ipynb) |
 | 10 통계적 추정 | `chap10.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w10/chap10.ipynb) |
-| 10 통계적 추정 | `chap10_풀이.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w10/chap10_%ED%92%80%EC%9D%B4.ipynb) |
 | 11 통계적 가설검정 | `chap11.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w11/chap11.ipynb) |
-| 11 통계적 가설검정 | `chap11_풀이.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w11/chap11_%ED%92%80%EC%9D%B4.ipynb) |
 | 12 회귀분석 | `chap12.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w12/chap12.ipynb) |
-| 12 회귀분석 | `chap12_풀이.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w12/chap12_%ED%92%80%EC%9D%B4.ipynb) |
 | 13 데이터통계분석 전체 돌아보기 | `복습.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w13/%EB%B3%B5%EC%8A%B5.ipynb) |
-| 13 데이터통계분석 전체 돌아보기 | `복습2.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w13/%EB%B3%B5%EC%8A%B52.ipynb) |
 | 14 LaTeX | `LaTeX.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w14/LaTeX.ipynb) |
 | 15 기말고사 | `기말고사_대체과제.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w15/%EA%B8%B0%EB%A7%90%EA%B3%A0%EC%82%AC_%EB%8C%80%EC%B2%B4%EA%B3%BC%EC%A0%9C.ipynb) |
 
