@@ -10,18 +10,18 @@ Colab 은 열 때마다 새 런타임이라 준비 셀은 세션마다 한 번�
 | 주차 | 노트북 | 열기 |
 |---|---|---|
 | 02 1차원 데이터 정리 — 지표 계산·시각화 | `chap02.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w02/chap02.ipynb) |
-| 03 2차원 데이터 정리 — 지표 계산·시각화 | `chap03.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w03/chap03.ipynb) |
-| 04 추측통계의 기본 | `chap04.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w04/chap04.ipynb) |
-| 05 이산형 확률변수 | `chap05.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w05/chap05.ipynb) |
-| 06 대표적인 이산형 확률변수 | `chap06.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w06/chap06.ipynb) |
-| 07 연속형 확률변수 | `chap07.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w07/chap07.ipynb) |
-| 08 대표적인 연속형 확률분포 | `chap08.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w08/chap08.ipynb) |
-| 09 독립동일분포 | `chap09.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w09/chap09.ipynb) |
-| 10 통계적 추정 | `chap10.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w10/chap10.ipynb) |
-| 11 통계적 가설검정 | `chap11.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w11/chap11.ipynb) |
-| 12 회귀분석 | `chap12.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w12/chap12.ipynb) |
-| 13 데이터통계분석 전체 돌아보기 | `복습.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w13/%EB%B3%B5%EC%8A%B5.ipynb) |
-| 14 LaTeX | `LaTeX.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w14/LaTeX.ipynb) |
+| 03 2주차 리마인드 · 퀴즈 · LaTeX | `LaTeX.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w03/LaTeX.ipynb) |
+| 04 2차원 데이터 정리 — 지표 계산·시각화 | `chap03.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w04/chap03.ipynb) |
+| 05 추측통계의 기본 | `chap04.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w05/chap04.ipynb) |
+| 06 이산형 확률변수 | `chap05.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w06/chap05.ipynb) |
+| 07 대표적인 이산형 확률변수 | `chap06.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w07/chap06.ipynb) |
+| 08 연속형 확률변수 | `chap07.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w08/chap07.ipynb) |
+| 09 대표적인 연속형 확률분포 | `chap08.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w09/chap08.ipynb) |
+| 10 독립동일분포 | `chap09.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w10/chap09.ipynb) |
+| 11 통계적 추정 | `chap10.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w11/chap10.ipynb) |
+| 12 통계적 가설검정 | `chap11.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w12/chap11.ipynb) |
+| 13 회귀분석 | `chap12.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w13/chap12.ipynb) |
+| 14 데이터통계분석 전체 돌아보기 | `복습.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w14/%EB%B3%B5%EC%8A%B5.ipynb) |
 
 ---
 
