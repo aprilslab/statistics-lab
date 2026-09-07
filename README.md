@@ -14,7 +14,7 @@ Colab 은 열 때마다 새 런타임이라 준비 셀은 세션마다 한 번�
 | 04 2차원 데이터 정리 — 지표 계산·시각화 | `chap03.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w04/chap03.ipynb) |
 | 05 추측통계의 기본 | `chap04.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w05/chap04.ipynb) |
 | 06 이산형 확률변수 | `chap05.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w06/chap05.ipynb) |
-| 07 대표적인 이산형 확률변수 | `chap06.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w07/chap06.ipynb) |
+| 07 대표적인 이산형 확률분포 | `chap06.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w07/chap06.ipynb) |
 | 08 연속형 확률변수 | `chap07.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w08/chap07.ipynb) |
 | 09 대표적인 연속형 확률분포 | `chap08.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w09/chap08.ipynb) |
 | 10 독립동일분포 | `chap09.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w10/chap09.ipynb) |
