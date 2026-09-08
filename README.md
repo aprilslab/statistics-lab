@@ -10,7 +10,7 @@ Colab 은 열 때마다 새 런타임이라 준비 셀은 세션마다 한 번�
 | 주차 | 노트북 | 열기 |
 |---|---|---|
 | 02 1차원 데이터 정리 — 지표 계산·시각화 | `chap02.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w02/chap02.ipynb) |
-| 03 2주차 리마인드 · 퀴즈 · LaTeX | `LaTeX.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w03/LaTeX.ipynb) |
+| 03 1차원 데이터 정리 리마인드 · 퀴즈 · LaTeX | `LaTeX.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w03/LaTeX.ipynb) |
 | 04 2차원 데이터 정리 — 지표 계산·시각화 | `chap03.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w04/chap03.ipynb) |
 | 05 추측통계의 기본 | `chap04.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w05/chap04.ipynb) |
 | 06 이산형 확률변수 | `chap05.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w06/chap05.ipynb) |
