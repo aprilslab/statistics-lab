@@ -18,9 +18,8 @@ Colab 은 열 때마다 새 런타임이라 준비 셀은 세션마다 한 번�
 | 07 중간고사 범위 복습 | `중간고사대비 연습문제.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w07/%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC%EB%8C%80%EB%B9%84%20%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C.ipynb) |
 | 12 통계적 추정 · 통계적 가설검정 | `w12_통계적가설검정.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w12/w12_%ED%86%B5%EA%B3%84%EC%A0%81%EA%B0%80%EC%84%A4%EA%B2%80%EC%A0%95.ipynb) |
 | 12 통계적 추정 · 통계적 가설검정 | `w12_통계적추정.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w12/w12_%ED%86%B5%EA%B3%84%EC%A0%81%EC%B6%94%EC%A0%95.ipynb) |
-| 13 통계적 가설검정 | `chap11.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w13/chap11.ipynb) |
-| 14 회귀분석 | `chap12.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w14/chap12.ipynb) |
-| 15 데이터통계분석 전체 돌아보기 | `복습.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w15/%EB%B3%B5%EC%8A%B5.ipynb) |
+| 13 회귀분석 | `w13_회귀분석.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w13/w13_%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.ipynb) |
+| 14 데이터통계분석 전체 돌아보기 | `복습.ipynb` | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aprilslab/statistics-lab/blob/main/w14/%EB%B3%B5%EC%8A%B5.ipynb) |
 
 ---
 
